@@ -9,7 +9,7 @@ python 으로 구현한 간단한 키보드 마우스 리스너 입니다
   - Development languege : python(3.11)
   - Library : pynput
   - Tools : VSCode
-  - 
+
 ## 기능
 현재 입력한 키보드 키의 정보, 마우스의 좌표정보 등을 알 수 있습니다
 
